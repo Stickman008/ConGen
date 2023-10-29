@@ -1,5 +1,5 @@
-torch==1.8.1
-transformers==4.9.0
-sentence-transformers==2.0.0
+torch==2.1.0
+transformers==4.34.1
+sentence-transformers==2.2.2
 tensorflow==2.5.0
 protobuf==3.20.*
