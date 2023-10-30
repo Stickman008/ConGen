@@ -17,6 +17,6 @@ setup(
     install_requires=[
         "torch==2.0.1",
         "transformers==4.9.0",
-        "sentence-transformers==2.0.",
+        "sentence-transformers==2.0.0",
     ],
 )
